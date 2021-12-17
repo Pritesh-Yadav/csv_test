@@ -1,0 +1,6 @@
+pytest-cov
+pytest
+pycodestyle
+pytest-pylint
+numpy
+pandas
